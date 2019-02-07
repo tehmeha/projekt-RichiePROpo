@@ -1,5 +1,5 @@
-# naziv projekta
+# Neam pojma
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: David Mapilele and Silvio Radošević
 - programming language: C++
 - description: Opis
